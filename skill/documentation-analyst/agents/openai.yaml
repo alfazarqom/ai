@@ -1,0 +1,4 @@
+interface:
+  display_name: "Documentation Analyst"
+  short_description: "Analyze official docs and extract requirements"
+  default_prompt: "Analyze the official documentation for this task and provide evidence-based requirements."
